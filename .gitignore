@@ -1,0 +1,9 @@
+# 패치 ZIP은 버전별 다운로드에 보관하고 Git 이력에서는 제외합니다.
+*.zip
+*.log
+*.tmp
+__pycache__/
+source_original/
+extracted_private/
+working_private/
+build_candidate/
